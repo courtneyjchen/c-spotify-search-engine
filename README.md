@@ -1,4 +1,4 @@
-# C_Spotify_Search_Engine
+# C Spotify Search Engine
 
 *Dislaimer: The data used in the following project is for non-commercial educational and personal use.*
 
